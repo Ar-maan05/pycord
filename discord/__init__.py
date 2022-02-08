@@ -10,7 +10,7 @@ A basic wrapper for the Discord API.
 """
 
 __title__ = 'discord'
-__author__ = 'Low-Key'
+__author__ = 'Low-Key.py#3264'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2015-2021 Rapptz & Copyright 2021-present Pycord Development'
 __version__ = '2.0.0b5'
